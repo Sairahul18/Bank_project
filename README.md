@@ -1,0 +1,1 @@
+This Python project simulates a simple banking system, allowing users to create accounts, deposit and withdraw funds, and view account details. The system offers basic banking operations and maintains customer details like names, pins, and balances.
